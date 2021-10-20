@@ -10,6 +10,8 @@
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1BNy6lGbG70nSDHqwtkxjMHSrx-29J5gT/view?usp=sharing)
 
+- 📄 I am also write codes for problem solving on my codeforces account [hacked](https://codeforces.com/profile/hacked)
+
 - ⚡ Long term goals **Learning C# .net core then frontend with React maybe after that I will learn one python backend framework (django or flask) or explore more fields like mobile development using flutter**
 
 <h3 align="left">Connect with me:</h3>
