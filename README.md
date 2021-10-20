@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahia Ali Abusaif</h1>
 <h3 align="center">Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiaabusaif&label=Profile%20views&color=0e75b6&style=flat" alt="yahiaabusaif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahiaabusaif" alt="yahiaabusaif" /></a> </p>
 
 - 🌱 I’m currently learning **Backend C# dot Net framework**
 
@@ -11,7 +8,7 @@
 
 - 📫 How to reach me **Yahiaali2014.ya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BNy6lGbG70nSDHqwtkxjMHSrx-29J5gT/view?usp=sharing](My CV)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1BNy6lGbG70nSDHqwtkxjMHSrx-29J5gT/view?usp=sharing)
 
 - ⚡ Long term goals **Learning C# .net core then frontend with React maybe after that I will learn one python backend framework (django or flask) or explore more fields like mobile development using flutter**
 
@@ -33,3 +30,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiaabusaif&show_icons=true&locale=en&layout=compact" alt="yahiaabusaif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiaabusaif&show_icons=true&locale=en" alt="yahiaabusaif" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiaabusaif&label=Profile%20views&color=0e75b6&style=flat" alt="yahiaabusaif" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahiaabusaif" alt="yahiaabusaif" /></a> </p>
+
