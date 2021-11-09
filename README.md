@@ -11,9 +11,9 @@
 - 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1sogqj9on6aXeivNT9dgYOT4J45DrA90k/edit?usp=sharing&ouid=103577642827227111066&rtpof=true&sd=true)
 
 - 📄 you can find some of my codes for problem solving on my codeforces account [hacked](https://codeforces.com/profile/hacked)
-- 
+
 - 📄 you can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif)
-- 
+
 - ⚡ Long term goals **Learning .net core then frontend with React maybe after that I will learn one python backend framework (django or flask) or explore more fields like mobile development using flutter**
 
 Note : there are problems in display some icons but they are still working 
