@@ -11,9 +11,12 @@
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1xfOlCsEfLrIzcGg_9XxAYg102239yP9W/view?usp=sharing)
 
 - 📄 you can find some of my codes for problem solving on my codeforces account [hacked](https://codeforces.com/profile/hacked)
-
+- 
+- 📄 you can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif)
+- 
 - ⚡ Long term goals **Learning .net core then frontend with React maybe after that I will learn one python backend framework (django or flask) or explore more fields like mobile development using flutter**
 
+Note : there are problems in display some icons but they are still working 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yahiaabusaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahiaabusaif" height="30" width="40" /></a>
