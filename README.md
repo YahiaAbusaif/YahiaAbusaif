@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1sogqj9on6aXeivNT9dgYOT4J45DrA90k/edit?usp=sharing&ouid=103577642827227111066&rtpof=true&sd=true)
 
-- 📄 you can find some of my codes for problem solving on my codeforces account [hacked](https://codeforces.com/profile/hacked)
+- 📄 you can find some of my codes for problem solving on my codeforces account [YaAAbu](https://codeforces.com/profile/YaAAbu)
 
 - 📄 you can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif)
 
