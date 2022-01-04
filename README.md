@@ -16,7 +16,7 @@
 
 - ⚡ Long term goals **Learning .net core then frontend with React maybe after that I will learn one python backend framework (django or flask) or explore more fields like mobile development using flutter**
 
-Note : there are problems in display some icons but they are still working 
+Note : if you are using dark theme then some icons will not appear. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yahiaabusaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahiaabusaif" height="30" width="40" /></a>
