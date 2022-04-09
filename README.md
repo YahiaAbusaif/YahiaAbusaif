@@ -2,19 +2,19 @@
 <h3 align="center">Software developer</h3>
 
 
-- 🌱 I’m currently learning **Backend C# dot Net framework**
+- 🌱 I’m currently working on multi projects for mobile development (**flutter**) backend (**C# dotnet core**) and frontend (**html,css and React**).
 
-- 💬 Ask me about **C++,C#,python and Competitive Programming.**
+- 💬 Ask me about **C++,C#,python,dart and Competitive Programming.**
 
 - 📫 How to reach me **Yahiaali2014.ya@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1sogqj9on6aXeivNT9dgYOT4J45DrA90k/edit?usp=sharing&ouid=103577642827227111066&rtpof=true&sd=true)
 
-- 📄 you can find some of my codes for problem solving on my codeforces account [YaAAbu](https://codeforces.com/profile/YaAAbu)
+- 📄 you can find some of my codes for problem solving on my codeforces account [YaAAbu](https://codeforces.com/profile/YaAAbu) and my leetcode account [YaAAbu](https://leetcode.com/YaAAbu/)
 
 - 📄 you can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif)
 
-- ⚡ Long term goals **Learning .net core then frontend with React maybe after that I will learn one python backend framework (django or flask) or explore more fields like mobile development using flutter**
+- ⚡ Long term goals **Learn more about dotnet core, React , flutter and mysql, I am also wants to learn about web security or explore more fields **
 
 Note : if you are using dark theme then some icons will not appear. 
 <h3 align="left">Connect with me:</h3>
