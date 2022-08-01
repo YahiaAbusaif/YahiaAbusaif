@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Yahiaali2014.ya@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1sogqj9on6aXeivNT9dgYOT4J45DrA90k/edit?usp=sharing&ouid=103577642827227111066&rtpof=true&sd=true)
+- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1upZ4_a0KBYUDy82WWVdd2E6YhgZk-UVOyejVDk1HIww/edit?usp=sharing)
 
 - 📄 you can find some of my codes for problem solving on my codeforces account [YaAAbu](https://codeforces.com/profile/YaAAbu) and my leetcode account [YaAAbu](https://leetcode.com/YaAAbu/)
 
