@@ -2,7 +2,7 @@
 <h3 align="center">Software developer</h3>
 
 
-- 🌱 I’m currently working on multi projects for mobile development (**flutter**) backend (**C# dotnet core**) and frontend (**html,css and React**).
+- 🌱 I’m currently working on projects for mobile development (**flutter**), backend (**C# dotnet core**), and frontend (**html,css and React**).
 
 - 💬 Ask me about **C++,C#,python,dart and Competitive Programming**.
 
