@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1ZLjwOtWMivo65vJD68XiDwaBZjtyn0R0ZbyyrsdqtOA/edit?usp=sharing)
 
-- 📄 you can find some of my codes for problem solving on my codeforces account [YaAAbu](https://codeforces.com/profile/YaAAbu) and my leetcode account [YaAAbu](https://leetcode.com/YaAAbu/)
+- 📄 you can find some of my codes for problem solving on my accounts with handler **YaAAbu** on  [Codeforces](https://codeforces.com/profile/YaAAbu), [HackerRank](https://www.hackerrank.com/YaAAbu?hr_r=1) and [Leetcode](https://leetcode.com/YaAAbu/)
 
 - 📄 you can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif)
 
