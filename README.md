@@ -4,17 +4,17 @@
 
 - 🌱 I’m currently working on multi projects for mobile development (**flutter**) backend (**C# dotnet core**) and frontend (**html,css and React**).
 
-- 💬 Ask me about **C++,C#,python,dart and Competitive Programming.**
+- 💬 Ask me about **C++,C#,python,dart and Competitive Programming**.
 
-- 📫 How to reach me **Yahiaali2014.ya@gmail.com**
+- 📫 How to reach me **Yahiaali2014.ya@gmail.com**.
 
-- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1ZLjwOtWMivo65vJD68XiDwaBZjtyn0R0ZbyyrsdqtOA/edit?usp=sharing)
+- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1ZLjwOtWMivo65vJD68XiDwaBZjtyn0R0ZbyyrsdqtOA/edit?usp=sharing).
 
-- 📄 you can find some of my codes for problem solving on my accounts with handler **YaAAbu** on  [Codeforces](https://codeforces.com/profile/YaAAbu), [HackerRank](https://www.hackerrank.com/YaAAbu?hr_r=1) and [Leetcode](https://leetcode.com/YaAAbu/)
+- 📄 You can find some of my codes for problem solving on my accounts with handler **YaAAbu** on  [Codeforces](https://codeforces.com/profile/YaAAbu), [HackerRank](https://www.hackerrank.com/YaAAbu?hr_r=1), and [Leetcode](https://leetcode.com/YaAAbu/).
 
-- 📄 you can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif)
+- 📄 You can find some of my codes for data anyalysis on my datacamp account [yahiaabusaif](https://www.datacamp.com/profile/yahiaabusaif).
 
-- ⚡ Long term goals **Learn more about dotnet core, React , flutter and mysql, I am also wants to learn about web security or explore more fields **
+- ⚡ Long term goals **Learn more about dotnet core, React , flutter and mysql, I am also wants to learn about web security or explore more fields **.
 
 Note : if you are using dark theme then some icons will not appear. 
 <h3 align="left">Connect with me:</h3>
