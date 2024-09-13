@@ -2,13 +2,11 @@
 <h3 align="center">Software developer</h3>
 
 
-- 🌱 I’m currently working on projects for mobile development (**flutter**), backend (**C# dotnet core**), and frontend (**html,css and React**).
+- 🌱 I’m currently working on backend projects (**C# dotnet core**).
 
 - 💬 Ask me about **C++,C#,python,dart and Competitive Programming**.
 
 - 📫 How to reach me **Yahiaali2014.ya@gmail.com**.
-
-- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1ZLjwOtWMivo65vJD68XiDwaBZjtyn0R0ZbyyrsdqtOA/edit?usp=sharing).
 
 - 📄 You can find some of my codes for problem solving on my accounts with handler **YaAAbu** on  [Codeforces](https://codeforces.com/profile/YaAAbu), [HackerRank](https://www.hackerrank.com/YaAAbu?hr_r=1), and [Leetcode](https://leetcode.com/YaAAbu/).
 
