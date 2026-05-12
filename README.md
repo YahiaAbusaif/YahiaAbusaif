@@ -1,28 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yahia Ali Abusaif</h1>
-<h3 align="center">Software Engineer | Backend Specialist | Data-Driven Planner</h3>
+<h1 align="center">Hi 👋, I'm Yahia Abusaif</h1>
+<h3 align="center">Senior Software Engineer | Technical Lead | Distributed Systems</h3>
 
 <p align="center">
-💻 Building reliable and scalable systems · 💡 Data-informed decision making · 🛠 Leading impactful projects
+🚀 Architecting high-scale microservices · 🏗️ Driving 'Document-First' engineering cultures · ☁️ Ex-Microsoft
 </p>
 
 ---
 
-- 🔭 I’m currently working on backend improvements for the **Cashback Team at Microsoft Edge**, enhancing shopping experiences through scalable microservices and automation.
-
-- 🧠 With a passion for **clean architecture**, I’ve led and owned production features end-to-end—such as full system design, A/B testing, analytics infrastructure, and service integrations.
-
-- 📊 I rely on **data analysis and metrics** to drive system improvements and product decisions. I've also used platforms like **DataCamp** to explore ML and data science tools.
-
-- 🚀 Past projects include developing notification systems, integrating major service providers, remote configuration, and campaign state management services.
-
-- 💬 Ask me about **C++, C#, Python, Dart, data-driven design, TDD, or distributed systems**.
-
-- 📫 Reach me at **Yahiaali2014.ya@gmail.com**
-
+- 🔭 **Current Focus:** Architecting highly resilient, multi-tenant SaaS platforms and enterprise identity solutions on AWS.
+- ⚡ **Track Record:** Engineered backend microservices to support a **40x transaction volume scale-up** (100k daily txns) at Sahl, and optimized complex cloud processing pipelines for a **500k+ domain ecosystem** at Microsoft.
+- 🧠 **Architecture Philosophy:** I specialize in **Domain-Driven Design (DDD)** and advocate heavily for a **"Document-First"** culture, utilizing Architecture Decision Records (ADRs) to align engineering pods and eliminate technical debt before code is even written.
+- 🛠️ **Core Stack:** Deep expertise in highly concurrent **C# (.NET Core)**, AWS (Lambda, SQS, EventBridge), Azure, and enterprise observability (New Relic, Sentry). 
+- 💬 **Ask me about:** Multi-tenant architecture, scaling distributed systems, CI/CD consolidation, or rescuing legacy platforms.
+- 📫 **Reach me at:** Yahiaali2014.ya@gmail.com
 - 🔗 Problem-solving code: [Codeforces](https://codeforces.com/profile/YaAAbu), [HackerRank](https://www.hackerrank.com/YaAAbu?hr_r=1), [LeetCode](https://leetcode.com/YaAAbu)
-
 - 📚 Data analysis & learning projects: [DataCamp](https://www.datacamp.com/profile/yahiaabusaif)
-
 ---
 
 <h3 align="left">Connect with me:</h3>
