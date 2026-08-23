@@ -1,59 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yahia Abusaif</h1>
-<h3 align="center">Senior Software Engineer | Technical Lead | Distributed Systems</h3>
+# Yahia Abusaif
+Senior software engineer. I build .NET and AWS backends, and I usually end up leading the workstream: architecture, delivery, and the people shipping it.
 
-<p align="center">
-🚀 Architecting high-scale microservices · 🏗️ Driving 'Document-First' engineering cultures · ☁️ Ex-Microsoft
-</p>
+Qualiphi · ex-Microsoft · ex-Sahl
 
----
+[Hub](https://yahiaabusaif.github.io) · [LinkedIn](https://www.linkedin.com/in/yahiaabusaif/) · [Blog](https://yaaabuthoughts.blogspot.com/) · [Heylink](https://heylink.me/yahiaali2014.ya/)
 
-- 🔭 **Current Focus:** Architecting highly resilient, multi-tenant SaaS platforms and enterprise identity solutions on AWS.
-- ⚡ **Track Record:** Engineered backend microservices to support a **40x transaction volume scale-up** (100k daily txns) at Sahl, and optimized complex cloud processing pipelines for a **500k+ domain ecosystem** at Microsoft.
-- 🧠 **Architecture Philosophy:** I specialize in **Domain-Driven Design (DDD)** and advocate heavily for a **"Document-First"** culture, utilizing Architecture Decision Records (ADRs) to align engineering pods and eliminate technical debt before code is even written.
-- 🛠️ **Core Stack:** Deep expertise in highly concurrent **C# (.NET Core)**, AWS (Lambda, SQS, EventBridge), Azure, and enterprise observability (New Relic, Sentry). 
-- 💬 **Ask me about:** Multi-tenant architecture, scaling distributed systems, CI/CD consolidation, or rescuing legacy platforms.
-- 📫 **Reach me at:** Yahiaali2014.ya@gmail.com
-- 🔗 Problem-solving code: [Codeforces](https://codeforces.com/profile/YaAAbu), [HackerRank](https://www.hackerrank.com/YaAAbu?hr_r=1), [LeetCode](https://leetcode.com/YaAAbu)
-- 📚 Data analysis & learning projects: [DataCamp](https://www.datacamp.com/profile/yahiaabusaif)
----
+## What I actually do
+Most of my work is C# /.NET and AWS. I like Design-First delivery: a short design doc or ADR before we write the code. Flutter and Python show up when the product needs them.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yahiaabusaif" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-<a href="https://stackoverflow.com/users/15070510" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" /></a>
-<a href="https://kaggle.com/yahiaaabusaif" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" /></a>
-</p>
+At Microsoft I owned a messy, high-scale workstream on a 500k+ domain pipeline. We cut unnecessary data I/O by 90%, and moved P0/P1 from 3-5 days to under 6 hours. At Sahl I had end-to-end ownership of the B2C path (mobile and backend) while we went from 2.5k to 100k daily transactions (40x). At Qualiphi I split time between a 0-to-1 multi-tenant SaaS and a legacy platform that still has to stay up. Two pods, custom identity, tenant isolation, a lot of mentoring.
 
----
+## Stack I will defend in an interview
+C# / .NET Core, AWS (CDK, SQS, EventBridge, Lambda), PostgreSQL, DDD, event-driven systems, CI/CD. Also Flutter, Python, SQL Server, Redis.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" />
-</p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiaabusaif&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiaabusaif&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yahiaabusaif&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yahiaabusaif" />
-</p>
+## Public trail
+Work from Microsoft, Sahl, and Qualiphi is on the work accounts. Repos below are older university and learning work. Writing is on the blog. Competitive programming: [Codeforces](https://codeforces.com/profile/YaAAbu) (ECPC 2018, 37/165).
