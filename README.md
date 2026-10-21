@@ -1,15 +1,13 @@
 # Yahia Abusaif
 
-Senior software engineer. I build .NET and AWS backends, and I usually stay on the workstream until it is actually shipped: the design, the code, and the people in the middle of it.
-
-Qualiphi now. Microsoft and Sahl before that.
+Hey. I love problem solving. Ad hoc problems, the competitive-programming kind, and the work ones too, where I sit with a teammate on the technical side, or sit with the business and talk about what is actually wrong.
 
 [Website](https://yahiaabusaif.github.io/) · [LinkedIn](https://linkedin.com/in/yahiaabusaif/) · [Heylink](https://heylink.me/yahiaali2014.ya/)
 
-Most of the day is C# and .NET on AWS. I like a short design doc or an ADR before the code, mainly so the team is talking about the same problem while it is still cheap to change. Flutter and Python show up when the product needs them.
+The CV, the jobs, and the writing are on the website. I am keeping this page shorter.
 
-The work tends to be the messy kind. At Microsoft I owned a 500k+ domain pipeline that was doing a lot of useless I/O. We cut that by 90%, and P0/P1 went from 3-5 days to under 6 hours. At Sahl I owned the B2C path, mobile and backend, while daily transactions went from 2.5k to 100k. At Qualiphi I split time across two pods: a multi-tenant SaaS from zero, and a legacy platform that still has to stay up. Custom identity, tenant isolation, and a lot of mentoring.
+I loved data analysis as a student, and the job is where it got real. I like looking into the data until the business can actually see the product. At Sahl the fun one was pulling too many analytics tools into one picture of the app, deep links and campaigns included. At Microsoft, campaign priority was less fun, and still fun. I still like being the person who reads the data and then says what we should do.
 
-C# / .NET Core, AWS (CDK, SQS, EventBridge, Lambda), PostgreSQL, event-driven systems, CI/CD. Also Flutter, Python, SQL Server, and Redis.
+I want that written down, mainly so someone who joins later, or misses the meeting, can catch up. I also like challenging the design. Not arguing for the sake of it. Either we move it to a better state, or we find out why this version is the right one for our case, and the people who only reviewed it learn something too. Pairing is not how I like to do that. Two people on a call can agree and forget to write the reason, and then everyone else is missing a piece. I mentor on the light side. More than that turns into micromanagement, and people stop learning. I also like to be left alone for a while: draft it, know it, then talk about the outcome.
 
-Product code stays on the work accounts. The repos here are older university and learning work. The writing is on the website. Competitive programming: [Codeforces](https://codeforces.com/profile/YaAAbu) (ECPC 2018, 37/165).
+I write, and I would like to teach again. I taught kids for six years at a charity. I like anime, manga, games, and plants. I am curious about data science, cybersecurity, and how open source projects are adapting now, and I have not gone deep on all of that yet. I am also looking at a master's. I think it should be AI. I am still sitting with that.
