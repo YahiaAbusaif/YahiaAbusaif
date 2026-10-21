@@ -4,10 +4,10 @@ Hey. I love problem solving. Ad hoc problems, the competitive-programming kind, 
 
 [Website](https://yahiaabusaif.github.io/) · [LinkedIn](https://linkedin.com/in/yahiaabusaif/) · [Heylink](https://heylink.me/yahiaali2014.ya/)
 
-The CV, the jobs, and the writing are on the website. I am keeping this page shorter.
-
 I loved data analysis as a student, and the job is where it got real. I like looking into the data until the business can actually see the product. At Sahl the fun one was pulling too many analytics tools into one picture of the app, deep links and campaigns included. At Microsoft, campaign priority was less fun, and still fun. I still like being the person who reads the data and then says what we should do.
 
 I want that written down, mainly so someone who joins later, or misses the meeting, can catch up. I also like challenging the design. Not arguing for the sake of it. Either we move it to a better state, or we find out why this version is the right one for our case, and the people who only reviewed it learn something too. Pairing is not how I like to do that. Two people on a call can agree and forget to write the reason, and then everyone else is missing a piece. I mentor on the light side. More than that turns into micromanagement, and people stop learning. I also like to be left alone for a while: draft it, know it, then talk about the outcome.
 
-I write, and I would like to teach again. I taught kids for six years at a charity. I like anime, manga, games, and plants. I am curious about data science, cybersecurity, and how open source projects are adapting now, and I have not gone deep on all of that yet. I am also looking at a master's. I think it should be AI. I am still sitting with that.
+I write, and I would like to teach again. I taught kids for six years at a charity. I like anime, manga, and games. I also keep a collection of indoor plants and flowers: aglaonema, pothos, dracaena, calathea, and others. I am curious about data science, cybersecurity, and how open source projects are adapting now, and I have not gone deep on all of that yet. I am also looking at a master's. I think it should be AI. I am still sitting with that.
+
+The CV, the jobs, and the writing are on the website.
